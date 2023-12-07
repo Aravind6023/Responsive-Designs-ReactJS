@@ -1,0 +1,63 @@
+.cus-Bg-Image
+{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+}
+
+/* SOCIAL BUTTONS TASK*/
+.bgImage-Button
+{
+    background-image : url("https://images.all-free-download.com/images/graphicwebp/starry_sky_scenery_picture_sparkling_light_effect_6931879.webp");
+    background-size: cover;
+}
+.socialButton_Heading{
+    font-size: 4rem;
+    font-family: sans-serif;
+}
+@media screen and (min-width: 992px) and (max-width: 1400px)
+{
+    .button_Comment{
+        width: auto;
+    }
+}
+
+/*NOTIFICATION Page*/
+.notify-Bg-Color
+{
+    background-color: #3eca72;
+}
+/* LOGIN Page */
+.login_Input{
+    border: none;
+}
+input:focus{
+    outline: none;
+}
+.login_Bg-Color
+{
+    background-color: #1ccc43;
+}
+.login_Text-Color
+{
+    color: #1ccc43;
+}
+/* CARD */
+.cus-Card
+{
+    border: none;
+    border-top: 4px solid yellow;
+}
+.cus-Card-Two
+{
+    border: none;
+    border-top: 4px solid blue;
+}
+.cus-Card-Three
+{
+    border: none;
+    border-top: 4px solid red;
+}
+.cus-Card-Four
+{
+    border: none;
+    border-top: 4px solid orange;
+}
